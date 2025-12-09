@@ -113,7 +113,7 @@ PATCH: Geriye uyumlu hata düzeltmeleri
 - **Deprecated** / **Kullanımdan Kaldırılacak**: Yakında kaldırılacak özellikler
 - **Removed** / **Kaldırılan**: Kaldırılan özellikler
 - **Fixed** / **Düzeltilen**: Hata düzeltmeleri
-- **Security** / **Güvenlik**: Güvenlik yamalarıi
+- **Security** / **Güvenlik**: Güvenlik yamaları
 
 ---
 
