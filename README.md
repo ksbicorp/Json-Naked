@@ -22,7 +22,9 @@
 - [💡 Kullanım / Usage](#-kullanım--usage)
 - [🏗️ Teknik Mimari / Technical Architecture](#️-teknik-mimari--technical-architecture)
 - [📸 Ekran Görüntüleri / Screenshots](#-ekran-görüntüleri--screenshots)
+- [📚 Dokümantasyon / Documentation](#-dokümantasyon--documentation)
 - [🤝 Katkıda Bulunma / Contributing](#-katkıda-bulunma--contributing)
+- [📜 Lisans / License](#-lisans--license)
 
 ---
 
@@ -303,6 +305,45 @@ Kullanıcı: "Yapay zeka nedir?"
           ↓
 [Adım 4] Metin çıkarma → "Yapay zeka, makinelerin..."
 ```
+
+---
+
+## 📚 Dokümantasyon / Documentation
+
+Bu proje kapsamlı dokümantasyona sahiptir. Detaylı bilgi için ilgili dosyalara bakın:
+
+### 🇹🇷 Türkçe Dokümantasyon
+
+| Dosya | Açıklama |
+|-------|----------|
+| [⚡ QUICKSTART.md](QUICKSTART.md) | 5 dakikada hızlı başlangıç rehberi |
+| [📖 USAGE.md](USAGE.md) | Detaylı kullanım kılavuzu ve örnekler |
+| [🏗️ ARCHITECTURE.md](ARCHITECTURE.md) | Teknik mimari ve sistem tasarımı |
+| [✨ FEATURES.md](FEATURES.md) | Tüm özelliklerin detaylı listesi |
+| [❓ FAQ.md](FAQ.md) | Sık sorulan sorular ve cevapları |
+| [🤝 CONTRIBUTING.md](CONTRIBUTING.md) | Katkıda bulunma rehberi |
+| [📝 CHANGELOG.md](CHANGELOG.md) | Sürüm geçmişi ve değişiklikler |
+| [📜 LICENSE](LICENSE) | MIT lisans bilgileri |
+
+### 🇬🇧 English Documentation
+
+| File | Description |
+|------|-------------|
+| [⚡ QUICKSTART.md](QUICKSTART.md) | Quick start guide in 5 minutes |
+| [📖 USAGE.md](USAGE.md) | Detailed usage guide with examples |
+| [🏗️ ARCHITECTURE.md](ARCHITECTURE.md) | Technical architecture and system design |
+| [✨ FEATURES.md](FEATURES.md) | Detailed list of all features |
+| [❓ FAQ.md](FAQ.md) | Frequently asked questions |
+| [🤝 CONTRIBUTING.md](CONTRIBUTING.md) | Contributing guidelines |
+| [📝 CHANGELOG.md](CHANGELOG.md) | Version history and changes |
+| [📜 LICENSE](LICENSE) | MIT license information |
+
+### 🎯 Başlangıç Önerileri / Getting Started Recommendations
+
+1. **Yeni Kullanıcılar / New Users**: [QUICKSTART.md](QUICKSTART.md) → [USAGE.md](USAGE.md)
+2. **Geliştiriciler / Developers**: [ARCHITECTURE.md](ARCHITECTURE.md) → [CONTRIBUTING.md](CONTRIBUTING.md)
+3. **Sorun mu Var? / Having Issues?**: [FAQ.md](FAQ.md)
+4. **Meraklılar / Curious**: [FEATURES.md](FEATURES.md) → [CHANGELOG.md](CHANGELOG.md)
 
 ---
 
